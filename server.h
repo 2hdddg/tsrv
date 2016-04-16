@@ -2,6 +2,7 @@
 #define _SERVER_
 #include <stdbool.h>
 
+bool server_init();
 bool server_start(int port);
 void server_stop();
 
