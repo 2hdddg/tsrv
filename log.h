@@ -4,6 +4,7 @@
 #include <syslog.h>
 #include <unistd.h>
 
+
 void log_init();
 void log_close();
 

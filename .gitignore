@@ -2,3 +2,4 @@
 *.out
 tsrv
 out/
+tests/*.d
